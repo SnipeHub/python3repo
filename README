@@ -1,0 +1,22 @@
+\\Python Resources\\ (more will be added)
+  https://developers.google.com/edu/python/
+  
+  - Free opensource Programming visualiser for Python, Java, Javascript, Typescript, Ruby, C and C++ 
+  http://pythontutor.com/visualize.html#mode=edit
+
+  https://www.coursera.org/learn/python-programming-introduction
+
+- Free opensource Programming visualiser for Python, Java, Javascript, Typescript, Ruby, C and C++ 
+  http://pythontutor.com/visualize.html#mode=edit
+
+\\useful git commands\\
+
+  -create text file = touch <filename>
+  -add text file = git add <filename>
+
+  -to add a commit message to files = git commit -m 'name commit'
+
+  -to upload you github repo folder = git remote add origin https://github.com/yourusername/Repo-Folder.git
+  - to send = git push origin master
+
+  - For more commands see http://gitref.org/
