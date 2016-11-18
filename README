@@ -1,8 +1,15 @@
+\\ Welcome! \\
+
+  I highly recommend using a GUI instead of the command line for github. I highly recommend "Github Desktop".
+  Easiest one I have found to use and glance over on what updates are happening on Github.
+  https://desktop.github.com/
+ 
+  For your text editor when writing your python code. I highly recommend Visual Studio Code, which is free and opensource.
+  The reason why I chose this is for the customization, simple to use and you can add the plugins to support the programming code
+  that you are going to be using. It also has shortcut keys and built in Github support.
+
 \\Python Resources\\ (more will be added)
   https://developers.google.com/edu/python/
-  
-  - Free opensource Programming visualiser for Python, Java, Javascript, Typescript, Ruby, C and C++ 
-  http://pythontutor.com/visualize.html#mode=edit
 
   https://www.coursera.org/learn/python-programming-introduction
 
