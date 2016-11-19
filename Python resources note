@@ -1,0 +1,5 @@
+Python source code notes
+
+The end of a line marks the end of a statement, so unlike C++ and Java, Python does not
+require a semicolon at the end of each statement. Comments begin with a '#' and extend to
+the end of the line.

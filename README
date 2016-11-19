@@ -1,8 +1,12 @@
 \\ Welcome! \\
 
+  \My reason for doing “all this”, Github , etc, is to document my progress while learning Python. This will
+  help me keep track of my progress and also keep a record for others to follow. I found I do a lot of
+  learning, and not enough record keeping. I figured this time if I am going to learn, I will document
+  it and record all the resources I found in order to help myself as well as others wishing to learn.\
+
   I highly recommend using a GUI instead of the command line for Github. I highly recommend "Github Desktop".
-  Easiest one I have found to use and glance over on what updates are happening on Github.
-  https://desktop.github.com/
+  Easiest one I have found to use and glance over on what updates are happening on Github. https://desktop.github.com/
  
   For your text editor when writing your python code. I highly recommend Visual Studio Code,
   which is free and open source. The reason why I chose this is for the customisation, 
