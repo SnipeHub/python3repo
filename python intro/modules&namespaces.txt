@@ -1,0 +1,20 @@
+to access the definitions in the sys module we would call it like below.
+
+import sys
+
+# Now can refer to sys.xxx facilities
+
+sys.exit(0)
+
+# Python Standard Library
+
+Commonly used modules/packages include:
+
+- sys - access to exit(), argv, stdin, stdout, ...
+
+- re - reghular expressions
+
+- os - operating system interface, file system
+
+Documentation of all standard library modules and packages can be found at
+http://docs.python.org/library.
