@@ -1,0 +1,10 @@
+# Since Python variables don't have any type spelled out in the source code, it's 
+a good idea to give meaningful names to your variables to remind yourself of
+what's going on. So use "name" if it's a single name, and "names"  if it's a 
+list of names etc. Many Python errors result from forgetting what type of value
+is in each variable.
+
+CamelCase is the recommended style of naming
+https://www.python.org/dev/peps/pep-0008/#naming-conventions
+
+## Do not use variable names "print" and "while", they will give an error.

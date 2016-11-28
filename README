@@ -36,6 +36,12 @@
   - Free open source Programming visualiser for Python, Java, Javascript, Typescript, Ruby, C and C++ 
   http://pythontutor.com/visualize.html#mode=edit
 
+## Other Python resources ##
+
+	- Standard Library Modules and Packages: https://docs.python.org/3/library/
+
+	- Official Tutor mailing list: https://mail.python.org/mailman/listinfo/tutor
+
 \\useful git commands\\
 
   -create text file = touch <filename>
